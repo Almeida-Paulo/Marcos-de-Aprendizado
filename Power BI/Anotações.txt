@@ -1,0 +1,8 @@
+Guia modelos: usada para quando se tem duas ou mais tabelas, onde será feita a correlação entre elas.
+Operações com tempo: precisa transformar de horas/graus para número decimal. Ex: 1h30min = 1,5 h.
+cor: color-hex.com (paletas prontas) mycolor.space (cria paletas a partir de uma cor dada)
+icones: flaticon.com/br/
+plano de fundo: powerpoint
+
+Gráfico Enlighten data story possibilidade dar informações detalhadas dinâmicas
+Scroller: gráfico de notícias rolante

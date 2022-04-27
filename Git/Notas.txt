@@ -1,0 +1,7 @@
+Chave SSH // Mais segura (dispensa a requisição de senha para clonagem)
+
+Tipos de entidades git // Blob, Tree e Commit (possuem metadados - informações)
+
+echo > //Cria arquivo. Ex: echo > Texto.txt cria o arquivo chamado Texto
+
+mkdir //Cria pastas

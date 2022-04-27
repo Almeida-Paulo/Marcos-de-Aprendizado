@@ -1,0 +1,68 @@
+1 - questões do negócio
+Imobiliária Teresina
+Compra imóveis com preços baixos e que tenham alto potencial de revenda
+
+
+2 - planejamento da solução
+Desafio: encontrar bons negócios, que significa encontrar casas com preço baixo 
+(menor que a média para as casas do mesmo padrão) e alto potencial de revenda
+
+
+
+3 - estrutura de dados em Python
+Listas
+
+Dicionários:
+  É uma estrutura de dados que armazena informação em uma estrutura de 
+  chave-valor. Todos os dados armazenados no dicionário precisam ter uma chave.
+  Além disso, precisam de um nome. 
+  Não aceita valores duplicados (mesmo par chave-valor)
+  
+  Estrutura do dicionário:
+    d={'chave1':valor1, 'chave2':valor2,...,'chaveN':valorN}
+    EX: skirt (saia)
+    skirt={'size':'M', 'price':139.90, 'color':'black'}
+    skirt={'size':'M', 'price':139.90, 'color':'black', date:'2020-01-01'}
+    skirt={'size':'M', 'price':139.90, 'color':['black', 'red', 'white']}
+  Acessar os valores do dicionário:
+    escreve           ->   retorna
+    skirt['size']     ->   'M'
+    skirt['color']    ->   ['black', 'red', 'white']
+    skirt['color'][0] ->   'black'
+  Como criar um dicionário vazio
+    skirt={}
+  Adicionar novos dados dentro do dicionário
+    skirt['category']='bottom'
+
+Tuples
+
+Dataframes
+  Armazena dados na forma tabular com nomes nas linhas e colunas. 
+  Precisam de um nome. Pode acessaro dataframe através das linhas e colunas.
+
+  Criar um dataframe vazio:
+    import pandas
+    data=pandas.DataFrame()
+  
+  Preencher o dataframe: 
+   Através de um dicionário:
+    import pandas
+    data={'size':['P', 'M', 'G'], 'price':[139.90, 149.90, 159.90], 'color':['black', 'red', 'white']}
+    data=pandas.Dataframe(data)
+
+4 - transformação de dados
+
+Agrupamento
+  Consiste em agrupar dados aplicando determinada filtragem, onde irá separar 
+  com base nos filtros, aplicar os filtrar e recombinar os resultados 
+  que obedecem aos filtros
+  Sequêcia de 3 tarefas
+    Split (Separa):
+    Apply (Aplica):
+    Combine (Combina):
+
+
+Operações matemáticas
+
+
+5 - exercicios

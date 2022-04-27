@@ -1,0 +1,47 @@
+Passos: 
+-Solicitar senha e id do team viewer
+-Verificar a conta do cliente no facebook (evitar recusa do facebook por fraudes)
+-Criar fan page (caso não tenha)
+-ir em anúncios (gerenciador de anúncios - BM)
+-selecionar conta empresarial (criar caso não tenha)
+-ir em configurações
+-adicionar a mim como administrador (em pessoas)
+-criar conta de anúncios (ou selecionar caso tenha)
+-adicionar Instagram, Whatapp
+-adicionar domínio
+-adicionar forma de pagamento
+-adicionar pixel
+-verificar todos os ativos (instagram, pagina...) e conceder acesso a mim, em adicionar 
+arquivos ou nos diretórios específicos.
+
+-adicionar informações da empresa
+
+-ir em central de segurança e adicionar 2fa, verificar a empresa 
+(pode precisar criar um app - em facebook for developers - e adicionar em aplicativos)
+se não tiver site, pode criar site no wix.
+
+-ir em aplicativos e adicionar o id do aplicativo criado 
+(deve ser criado com apenas o nome do aplicativo e email do perfil do facebook)
+
+
+
+Métricas
+
+Métricas Primárias
+ Resultado
+ Custo por resultado
+ Visualizações da pag de destino
+ Conversão de pag de destino
+
+
+Métricas Secundárias
+ CPC
+ CPM
+ CTR
+ Frequencia
+ ROI
+ Alcance
+ Impressões
+
+
+

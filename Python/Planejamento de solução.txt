@@ -1,0 +1,23 @@
+-qual o objetivo? o que o cliente deseja, quais os requisitos e desafios
+(pode ser uma empresa, chefe, ou cliente externo) 
+
+-planejamento do produto final:
+ Ex: planilha, email, gráfico, etc...
+ 
+Email com 2 anexos
+Email: perguntas e respostas.
+anexo 1: dashboard com 3 gráficos
+Anexo 2: mapa no formato html
+
+-planejamento das ferramentas:
+Ex: Pyhon, R, Excel...
+Python, Pycharm, Jupiter Notebook
+
+-planejamento do processo (como fazer):
+Responder às peguntas feitas, ou requisitos do cliente.
+
+
+Ex: Qual o total de vendas no ano?
+ R - Somar a quantidade de produtos vendidos 
+     (caso esse dado esteja em uma tabela, com cada linha da tabela 
+      representando um produto vendido, soma-se a quantidade de linhas)

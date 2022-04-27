@@ -1,0 +1,10 @@
+Java é uma linguagem totalmente orientada a objetos: todo em java é um objeto.
+
+Vantagem: a plataforma java não está presa a um único SO ou hardware, pois seus programas 
+rodam através de uma máquina virtual.
+
+Diferente de linguagens compiladas (compilação se dá em tempo de desenvolvimento), 
+como C++, a Java é compilada para um bytecode que interpretado por uma máquina virtual (JVM).
+Comparação Java e C
+  Código (Compilação) > Execução (OS)
+  Código > Compilador (Compilação) > JVM (Interpretação > Execução (OS)

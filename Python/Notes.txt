@@ -1,0 +1,21 @@
+Tda variável deve ter um nome e um tipo.
+Tipos mais comuns de variáves
+Numérica (integer/inteiro, float/racional)-> 1; 2.15
+Categórica (character/letra, string/palavra) -> "o"; "dados"
+Data (date, timestamp) -> ano-mes-dia; ano-mes-dia h-m-s
+
+Boas práticas: 
+ - recomenda-se nomear as variáveis em inglês, com estilo Snake.
+ - expressar a responsabilidade da variável
+
+Estilos:
+Kamel Case - NomeVariavel
+Snake Case - Nome_variavel
+
+A biblioteca pandas identifica automaticamente (por padrão) variáveis com 
+datas como objetos
+OBS: olhar commands para saber como transformar object -> date
+
+Comando para identificar os tipos das variáveis em um conjunto de dados
+- "dtypes"
+Ex: print(data.dtypes)

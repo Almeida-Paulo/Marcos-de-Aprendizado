@@ -1,0 +1,14 @@
+-planejamento do produto final:
+ Ex: planilha, email, gráfico, etc...
+ 
+Email com 2 anexos
+Email: perguntas e respostas.
+anexo 1: dashboard com 3 gráficos
+Anexo 2: mapa no formato html
+
+-planejamento das ferramentas:
+Ex: Pyhon, R, Excel...
+Python, Pycharm, Jupiter Notebook
+
+-planejamento do processo (como fazer):
+Responder às peguntas feitas, ou requisitos do cliente.
